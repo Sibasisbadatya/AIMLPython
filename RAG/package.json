@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@langchain/openai": "^1.4.7",
+    "langchain": "^1.4.5"
+  }
+}
